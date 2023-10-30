@@ -21,8 +21,9 @@ Visual components and Python
 ![image](https://github.com/Leann4468/Open-Jacson-Networks/assets/121165979/3f19e3af-1790-4fb2-a5ff-b187e45e1c1c)
 
 ## Program :
-#Developed by: Leann Joby Mathew
-#Reg.NO:212221230074
+Developed by: Leann Joby Mathew
+
+Reg.NO:212221230074
 
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
